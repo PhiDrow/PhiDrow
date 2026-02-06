@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pedro</h1>
-<h3 align="center">Mathematics Student | Data Science </h3>
+<h1 align="center">Hi, I'm Pedro 👋</h1>
+<h3 align="center">Mathematics | Data Science </h3>
 
 ---
 
