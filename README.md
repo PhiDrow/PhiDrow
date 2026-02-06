@@ -19,6 +19,9 @@
 <a href="https://instagram.com/pedrosilaen_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
+  <a href="https://wa.me/6283121102107" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 ---
