@@ -44,6 +44,10 @@
 
 ### 🚀 Highlight Interests
 📈 Financial Modeling & Portfolio Optimization
+
 🤖 Machine Learning & AI
+
 🧮 Operations Research
+
 🧪 Research & Scientific Writing
+
