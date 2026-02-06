@@ -4,10 +4,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Mathematics student at the **University of North Sumatra**
-- 🧠 Interested in **mathematical modeling, optimization, and machine learning**
-- 📊 Passionate about applying math & data to solve **real-world problems**
-- 🤝 Open for **research collaborations, projects, and competitions**
+- 🎓 Mathematics student at the University of North Sumatra
+- 🧠 Interested in mathematical modeling, optimization, and machine learning
+- 📊 Passionate about applying math & data to solve real-world problems
+- 🤝 Open for research collaborations, projects, and competitions
 
 ---
 
