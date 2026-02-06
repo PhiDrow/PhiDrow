@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Pedro</h1>
-<h3 align="center">Mathematics Student | Data Science & AI Enthusiast</h3>
+<h3 align="center">Mathematics Student | Data Science </h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Mathematics student at the University of North Sumatra
-- 🧠 Interested in mathematical modeling, optimization, and machine learning
-- 📊 Passionate about applying math & data to solve real-world problems
-- 🤝 Open for research collaborations, projects, and competitions
+🎓 Mathematics student at the University of North Sumatra
+🧠 Interested in mathematical modeling, optimization, and machine learning
+📊 Passionate about applying math & data to solve real-world problems
+🤝 Open for research collaborations, projects, and competitions
 
 ---
 
@@ -40,7 +40,7 @@
 
 
 ### 🚀 Highlight Interests
-- 📈 Financial Modeling & Portfolio Optimization
-- 🤖 Machine Learning & AI
-- 🧮 Operations Research
-- 🧪 Research & Scientific Writing
+📈 Financial Modeling & Portfolio Optimization
+🤖 Machine Learning & AI
+🧮 Operations Research
+🧪 Research & Scientific Writing
