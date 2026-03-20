@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+# About Me:
 🎓 Mathematics student at the University of North Sumatra
 
 🧠 Interested in mathematical modeling, optimization, and machine learning
